@@ -13,6 +13,13 @@
 
 -----------
 
+| Cursos | Certificados|
+|-------- |------------ |
+|Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/FFTU3JEF.pdf)
+
+---------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson-dev-L1&show_icons=true&theme=radical)
+
 
 <!--
 **jeferson-dev-L1/jeferson-dev-L1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
