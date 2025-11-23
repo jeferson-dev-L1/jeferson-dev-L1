@@ -2,6 +2,7 @@
 
 ## Sejam Bem-Vindos!
 
+![Imagem do Programador](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 ------------
 
 👽 Olá, me chamo Jeferson Silva
