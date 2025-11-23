@@ -2,7 +2,7 @@
 
 ## Sejam Bem-Vindos!
 
-![Gif do Programador](https://gifer.com/pt/S0S)
+![Gif do Programador](https://br.pinterest.com/pin/32862272279563492/)
 ------------
 
 👽 Olá, me chamo Jeferson Silva
