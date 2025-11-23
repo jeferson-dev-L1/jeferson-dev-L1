@@ -2,7 +2,6 @@
 
 ## Sejam Bem-Vindos!
 
-![Imagem do Programador](https://beecrowd.com/pt/blog-posts/coisas-importantes-que-um-programador-deve-saber/)
 ------------
 
 👽 Olá, me chamo Jeferson Silva
