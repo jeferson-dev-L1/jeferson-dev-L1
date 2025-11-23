@@ -7,7 +7,11 @@
 
 👽 Olá, me chamo Jeferson Silva
 
-👨‍💻 Sou autônomo e freelancer, Bacharel em Sistemas de Informação, Pós-graduado MBA em Gestão de Projetos de Tecololgia da IInformação. Estou focado em aprender e aprofundar meus conhecimentos em Git e GitHub, explorar e desvendar os mistérios da Tecnologia da Informação.
+🎓 Sou Bacharel em Sistemas de Informação e Pós-graduado MBA em Gestão de Projetos de Tecnologia da Informação
+
+👨‍💻 Atuo como autônomo e freelancer
+
+Atualmente estou focado em aprofundar meus conhecimentos em Git e GitHub, além de explorar e desvendar os desafios do mundo da Tecnologia da Informação.
 
 📫 [Acesse o meu LinkedIn](https://www.linkedin.com/in/jeferson-manoel-da-silva-0136a611a/)
 
@@ -19,7 +23,6 @@
 
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson-dev-L1&show_icons=true&theme=radical)
-
 
 <!--
 **jeferson-dev-L1/jeferson-dev-L1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
