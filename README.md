@@ -13,7 +13,7 @@
 
 Atualmente estou focado em aprofundar meus conhecimentos em Git e GitHub, além de explorar e desvendar os desafios do mundo da Tecnologia da Informação.
 
-📫 [Acesse o meu LinkedIn](https://www.linkedin.com/in/jeferson-manoel-da-silva-0136a611a/)
+📫 [Acesse o meu LinkedIn](https://www.linkedin.com/in/jeferson-manoel-da-silva)
 
 -----------
 
