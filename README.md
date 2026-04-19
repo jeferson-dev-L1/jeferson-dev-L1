@@ -4,7 +4,28 @@
 ------------
 
 
+# 👨‍💻 Jeferson Silva
 
+🎓 Bacharel em Sistemas de Informação | Pós-graduado em Gestão de Projetos de TI  
+
+💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, redes e manutenção de computadores.
+
+🎯 Foco: Suporte Técnico | Redes | Infraestrutura | NOC
+
+---
+
+## 🧠 Habilidades
+- Suporte técnico ao usuário
+- Diagnóstico de problemas de rede
+- Manutenção de computadores
+- Atendimento e resolução de incidentes
+
+---
+
+### 🚀 Projetos
+- 📡 Troubleshooting de rede
+- 🖥️ Checklist de suporte técnico
+- 🔧 Manutenção de computadores
 
 ---
 
