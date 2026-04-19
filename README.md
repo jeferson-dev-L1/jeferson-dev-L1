@@ -30,7 +30,7 @@
 
 ---
 
-📫 [Acesse o meu LinkedIn](https://https://www.linkedin.com/in/jefersonmanoeldasilva)
+📫 [Acesse o meu LinkedIn](https://www.linkedin.com/in/jefersonmanoeldasilva)
 
 -----------
 
