@@ -3,30 +3,8 @@
 ![Gif do Programador](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
 ------------
 
-# 👨‍💻 Jeferson Silva
-
-🎓 Bacharel em Sistemas de Informação | Pós-graduado em Gestão de Projetos de TI
-
-💻 Profissional de Tecnologia da Informação com experiência prática em suporte técnico, redes e manutenção de computadores.
-
-🎯 Foco atual: aprofundar conhecimentos em Git, GitHub e fortalecer habilidades em troubleshooting e infraestrutura de TI.
-
----
 
 
-## 🧠 Habilidades
-- Suporte técnico ao usuário
-- Diagnóstico de problemas de rede
-- Manutenção de computadores
-- Atendimento e resolução de incidentes
-
-
----
-
-### 🚀 Projetos
-- 📡 Troubleshooting de rede
-- 🖥️ Checklist de suporte técnico
-- 🔧 Manutenção de computadores
 
 ---
 
