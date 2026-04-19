@@ -5,13 +5,30 @@
 ![Gif do Programador](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
 ------------
 
-👽 Olá, me chamo Jeferson Silva
+# 👨‍💻 Jeferson Silva
 
-🎓 Sou Bacharel em Sistemas de Informação e Pós-graduado MBA em Gestão de Projetos de Tecnologia da Informação
+🎓 Bacharel em Sistemas de Informação | Pós-graduado em Gestão de Projetos de TI
 
-👨‍💻 Atuo como autônomo e freelancer
+💻 Profissional de Tecnologia da Informação com experiência prática em suporte técnico, redes e manutenção de computadores.
 
-Atualmente estou focado em aprofundar meus conhecimentos em Git e GitHub, além de explorar e desvendar os desafios do mundo da Tecnologia da Informação.
+🎯 Foco atual: aprofundar conhecimentos em Git, GitHub e fortalecer habilidades em troubleshooting e infraestrutura de TI.
+
+---
+
+## 🧠 Habilidades
+- Suporte técnico ao usuário
+- Diagnóstico de problemas de rede
+- Manutenção de computadores
+- Atendimento e resolução de incidentes
+
+---
+
+## 🚀 Projetos
+- 📡 Troubleshooting de rede
+- 🖥️ Checklist de suporte técnico
+- 🔧 Manutenção de computadores
+
+---
 
 📫 [Acesse o meu LinkedIn](https://www.linkedin.com/in/jeferson-manoel-da-silva)
 
