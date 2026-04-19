@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Projetos
+### 🚀 Projetos
 - 📡 Troubleshooting de rede
 - 🖥️ Checklist de suporte técnico
 - 🔧 Manutenção de computadores
