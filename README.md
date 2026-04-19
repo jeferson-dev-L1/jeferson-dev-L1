@@ -5,7 +5,7 @@
 
 # 👨‍💻 Jeferson Silva
 
-🎓 Bacharel em Sistemas de Informação | Pós-graduado em Gestão de Projetos de TI  
+🎓 Bacharel em Sistemas de Informação | MBA em Gestão de Projetos de TI  
 
 💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, redes e manutenção de computadores.
 
