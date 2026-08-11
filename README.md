@@ -9,7 +9,7 @@
 
 💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, redes e manutenção de computadores.
 
-🎯 Foco: Suporte Técnico | Redes | Infraestrutura | NOC
+🎯 Foco: Suporte Técnico | Redes | Infraestrutura | NOC | IA | Programação em Python
 
 ---
 
