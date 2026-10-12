@@ -9,7 +9,7 @@
 
 💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, redes e manutenção de computadores.
 
-🎯 Foco: Suporte Técnico | Redes | Infraestrutura | NOC | IA | Programação em Python | Evolução em IA
+🎯 Foco: Infraestrutura | NOC | Programação em Python | Evolução em IA
 
 ---
 
@@ -25,12 +25,28 @@
 - SoftExpert
 - IA Generativa
 
+
 ---
 
 ## 🚀 Projetos
-- 📡 **Troubleshooting de rede** 
-- 🖥️ **Checklist de suporte técnico**
-- 🔧 **Manutenção de computadores**
+
+![Network](https://img.shields.io/badge/Projeto-Troubleshooting%20de%20Rede-1E90FF?style=for-the-badge)   
+📡 Diagnóstico e resolução de problemas de conectividade em ambientes de rede. 
+[🔗 Repositório](https://github.com/jeferson-dev-L1/troubleshooting-rede-ti)
+
+---
+
+![Support](https://img.shields.io/badge/Projeto-Checklist%20de%20Suporte%20Técnico-32CD32?style=for-the-badge&logo=windows&logoColor=white)  
+🖥️ Padronização do processo de atendimento e resolução de incidentes.
+[🔗 Repositório](https://github.com/jeferson-dev-L1/checklist-suporte-ti)
+
+---
+
+![Maintenance](https://img.shields.io/badge/Projeto-Manutenção%20de%20Computadores-FF8C00?style=for-the-badge&logo=hardware&logoColor=white)  
+🔧Atividades de manutenção preventiva e corretiva em equipamentos. 
+[🔗 Repositório](https://github.com/jeferson-dev-L1/manutencao-computadores)
+
+
 
 ---
 
@@ -79,9 +95,19 @@
 -----------
 
 ## 🎯 Objetivos
-- Contribuir para projetos open-source  
-- Evoluir em Inteligência Artificial  
-- Criar soluções que impactem positivamente pessoas e negócios  
+
+- 🌍 **Contribuir para projetos open-source**  
+  Compartilhar conhecimento e colaborar com a comunidade global de tecnologia.
+
+- 🤖 **Evoluir em Inteligência Artificial**  
+  Aprofundar estudos em IA generativa e aplicações práticas em negócios.
+
+- 💡 **Criar soluções inovadoras**  
+  Desenvolver projetos que impactem positivamente pessoas e organizações.
+
+- 🚀 **Crescimento contínuo**  
+  Buscar aprendizado constante e certificações que fortaleçam minha carreira.
+
 
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson-dev-L1&show_icons=true&theme=radical)
