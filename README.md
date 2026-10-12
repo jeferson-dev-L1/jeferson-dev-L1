@@ -35,34 +35,46 @@
 ---
 
 ## 🌐 Conecte-se comigo
-- 💼 [LinkedIn](https:www.linkedin.com/in/jefersonmanoeldasilva)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefersonmanoeldasilva)
 - 📧 Email: jefinho_m_@outlook.com
 
 -----------
 
 ## 🎓 Certificações & Cursos
-|-------- |------------ |
-|Microsoft - Foundry Agentic Engineer | [Certificado](https://hermes.dio.me/certificates/S21LN6SY.pdf)
 
-|Aceleração Randstad - Service Desk | [Certificado](https://hermes.dio.me/certificates/GPCPRPYZ.pdf)
+![Microsoft](https://img.shields.io/badge/Microsoft-Foundry%20Agentic%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+[Certificado](https://hermes.dio.me/certificates/S21LN6SY.pdf)
 
-|DIO Campus Expert | Turma 15 | [Certificado](https://hermes.dio.me/certificates/ECSY40QH.pdf)
+![Randstad](https://img.shields.io/badge/Randstad-Service%20Desk-0057B8?style=for-the-badge&logo=randstad&logoColor=white)  
+[Certificado](https://hermes.dio.me/certificates/GPCPRPYZ.pdf)
 
-|Skills Certification: Aceleração Microsoft - IA Arquitetura de Dados | [Certificado](https://hermes.dio.me/certificates/Q6JHBPGL.pdf)
+![DIO](https://img.shields.io/badge/DIO-Campus%20Expert%20Turma%2015-FF0000?style=for-the-badge&logo=github&logoColor=white)  
+[Certificado](https://hermes.dio.me/certificates/ECSY40QH.pdf)
 
-|Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/FFTU3JEF.pdf)
+![Microsoft](https://img.shields.io/badge/Microsoft-IA%20Arquitetura%20de%20Dados-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)  
+[Certificado](https://hermes.dio.me/certificates/Q6JHBPGL.pdf)
 
-|Cybersecurity | [Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=a69ad1ab94bacf7b0f5f0617a7fe8089&action=view)
+![GitHub](https://img.shields.io/badge/Formação-GitHub%20Certification-181717?style=for-the-badge&logo=github&logoColor=white)  
+[Certificado](https://hermes.dio.me/certificates/VNPSCIX2.pdf)
 
-|Gestão de Infraestrutura de TI| [Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=61a188d6a8a94f125ee61e80fd491dc7&action=view)
+![FIAP](https://img.shields.io/badge/FIAP-Cybersecurity-2E2E2E?style=for-the-badge&logo=security&logoColor=white)  
+[Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=a69ad1ab94bacf7b0f5f0617a7fe8089&action=view)
 
-|Inteligência Artificial e Computacional | [Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=f163bfb3a18c2de4a27e61f0c71d15c7&action=view)
+![FIAP](https://img.shields.io/badge/FIAP-Gestão%20de%20Infraestrutura%20de%20TI-2E2E2E?style=for-the-badge&logo=server&logoColor=white)  
+[Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=61a188d6a8a94f125ee61e80fd491dc7&action=view)
 
-|AI-900 - Fundamentos de IA no Azure | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1sa8zNCi6PgFup8QOzkLDVc)
+![FIAP](https://img.shields.io/badge/FIAP-Inteligência%20Artificial%20e%20Computacional-2E2E2E?style=for-the-badge&logo=artstation&logoColor=white)  
+[Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=f163bfb3a18c2de4a27e61f0c71d15c7&action=view)
 
-|SharePoint | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1tlrfkGbO1LNlGF5PqzJoR1)
+![Microsoft](https://img.shields.io/badge/Microsoft-AI900%20Fundamentos%20de%20IA%20no%20Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)  
+[Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1sa8zNCi6PgFup8QOzkLDVc)
 
-|Segurança em Tecnologia da Informação | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1s9WHmdX07%252fgEhT3KzmdiE0)
+![Microsoft](https://img.shields.io/badge/Microsoft-SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white)  
+[Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1tlrfkGbO1LNlGF5PqzJoR1)
+
+![Segurança](https://img.shields.io/badge/Segurança-TI-FF4500?style=for-the-badge&logo=protonmail&logoColor=white)  
+[Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1s9WHmdX07%252fgEhT3KzmdiE0)
+
 
 -----------
 
