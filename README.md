@@ -3,11 +3,11 @@
 ![Gif do Programador](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
 ------------
 
-# 👨‍💻 Hi, I am Jeferson Silva!
+# 👋 Olá! Sou Jeferson Silva!
 
-🎓 Bacharel em Sistemas de Informação | MBA em Gestão de Projetos de TI  
+🎓 Bacharel em **Sistemas de Informação** | MBA em **Gestão de Projetos de TI** 
 
-💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, redes e manutenção de computadores.
+💻 Profissional apaixonado por **Tecnologia da Informação**, com experiência em suporte técnico, redes e manutenção de computadores.
 
 🎯 Foco: Infraestrutura | NOC | Programação em Python | Evolução em IA
 
