@@ -13,19 +13,16 @@
 
 ---
 
-## 🧠 Habilidades
-- Suporte técnico ao usuário
-- Diagnóstico de problemas de rede
-- Troubleshooting
-- Manutenção de computadores
-- Manutenção de software e sistemas
-- Atendimento e resolução de incidentes
-- Suporte Remoto
-- ServiceNow
-- SoftExpert
-- IA Generativa
+## 🧠 Competências
 
-
+- 👨‍💻 Suporte técnico ao usuário com foco em experiência positiva  
+- 🌐 Diagnóstico e resolução de problemas de rede (Troubleshooting)  
+- 🖥️ Manutenção preventiva e corretiva de computadores e sistemas  
+- ⚙️ Gestão de incidentes e atendimento ágil  
+- 📡 Suporte remoto eficiente  
+- 🛠️ Utilização de ferramentas corporativas (ServiceNow, SoftExpert)  
+- 🤖 Aplicação prática de IA Generativa em soluções de TI
+  
 ---
 
 ## 🚀 Projetos
