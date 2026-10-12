@@ -3,7 +3,7 @@
 ![Gif do Programador](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
 ------------
 
-# 👨‍💻 Jeferson Silva
+# 👨‍💻 Olá, eu sou Jeferson Silva!
 
 🎓 Bacharel em Sistemas de Informação | MBA em Gestão de Projetos de TI  
 
@@ -16,8 +16,14 @@
 ## 🧠 Habilidades
 - Suporte técnico ao usuário
 - Diagnóstico de problemas de rede
+- Troubleshooting
 - Manutenção de computadores
+- Manutenção de software e sistemas
 - Atendimento e resolução de incidentes
+- Suporte Remoto
+- ServiceNow
+- SoftExpert
+- IA Generativa
 
 ---
 
