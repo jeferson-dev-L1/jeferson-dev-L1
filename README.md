@@ -17,7 +17,7 @@
 
 - 👨‍💻 Suporte técnico ao usuário com foco em experiência positiva  
 - 🌐 Diagnóstico e resolução de problemas de rede (Troubleshooting)  
-- 🖥️ Manutenção preventiva e corretiva de computadores e sistemas  
+- 🖥️ Manutenção preventiva e corretiva de hardware e software  
 - ⚙️ Gestão de incidentes e atendimento ágil  
 - 📡 Suporte remoto eficiente  
 - 🛠️ Utilização de ferramentas corporativas (ServiceNow, SoftExpert)  
