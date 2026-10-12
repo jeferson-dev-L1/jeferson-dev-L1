@@ -43,15 +43,25 @@
 ## 🎓 Certificações & Cursos
 |-------- |------------ |
 |Microsoft - Foundry Agentic Engineer | [Certificado](https://hermes.dio.me/certificates/S21LN6SY.pdf)
+
 |Aceleração Randstad - Service Desk | [Certificado](https://hermes.dio.me/certificates/GPCPRPYZ.pdf)
+
 |DIO Campus Expert | Turma 15 | [Certificado](https://hermes.dio.me/certificates/ECSY40QH.pdf)
+
 |Skills Certification: Aceleração Microsoft - IA Arquitetura de Dados | [Certificado](https://hermes.dio.me/certificates/Q6JHBPGL.pdf)
+
 |Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/FFTU3JEF.pdf)
+
 |Cybersecurity | [Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=a69ad1ab94bacf7b0f5f0617a7fe8089&action=view)
+
 |Gestão de Infraestrutura de TI| [Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=61a188d6a8a94f125ee61e80fd491dc7&action=view)
+
 |Inteligência Artificial e Computacional | [Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=f163bfb3a18c2de4a27e61f0c71d15c7&action=view)
+
 |AI-900 - Fundamentos de IA no Azure | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1sa8zNCi6PgFup8QOzkLDVc)
+
 |SharePoint | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1tlrfkGbO1LNlGF5PqzJoR1)
+
 |Segurança em Tecnologia da Informação | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=1986724&p=h29zS5JSY1s9WHmdX07%252fgEhT3KzmdiE0)
 
 -----------
